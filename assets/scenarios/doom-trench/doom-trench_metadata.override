@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<chunkyfile converter_version="2" version="4">
+	<folder id="OLYR" version="3000">
+		<data id="HEAD" version="3000"/>
+		<folder id="ODAT" version="3000">
+			<data id="HEAD" version="3000">
+				<uint32_t name="type" value="1398033741"/>
+			</data>
+			<folder id="DATA" version="3000">
+				<folder id="STMM" version="4000"/>
+			</folder>
+		</folder>
+	</folder>
+</chunkyfile>
+

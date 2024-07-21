@@ -1,0 +1,349 @@
+HeaderInfo =  
+{
+	mapsize =  
+	{
+		544,
+		544,
+	},
+	point_positions =  
+	{
+		 
+		{
+			ebp_name = "territory_victory_point",
+			owner_id = 0,
+			x = -15.12999,
+			y = 15.32466,
+		},
+		 
+		{
+			ebp_name = "territory_victory_point",
+			owner_id = 0,
+			x = -61.25544,
+			y = -154.38913,
+		},
+		 
+		{
+			ebp_name = "territory_victory_point",
+			owner_id = 0,
+			x = 69.75062,
+			y = 178.28798,
+		},
+		 
+		{
+			ebp_name = "territory_fuel_point_high",
+			owner_id = 0,
+			x = 16.32619,
+			y = 31.14473,
+		},
+		 
+		{
+			ebp_name = "territory_fuel_point_medium",
+			owner_id = 0,
+			x = -83.01941,
+			y = -215.02165,
+		},
+		 
+		{
+			ebp_name = "territory_munitions_point_medium",
+			owner_id = 0,
+			x = -44.20099,
+			y = -176.50809,
+		},
+		 
+		{
+			ebp_name = "territory_fuel_point_medium",
+			owner_id = 0,
+			x = 38.17677,
+			y = 175.53903,
+		},
+		 
+		{
+			ebp_name = "territory_munitions_point_medium",
+			owner_id = 0,
+			x = 81.92253,
+			y = 225.47954,
+		},
+		 
+		{
+			ebp_name = "territory_munitions_point_low",
+			owner_id = 0,
+			x = 167.31065,
+			y = 171.01660,
+		},
+		 
+		{
+			ebp_name = "territory_fuel_point_low",
+			owner_id = 0,
+			x = 211.51335,
+			y = 85.38416,
+		},
+		 
+		{
+			ebp_name = "territory_strategic_point_5m",
+			owner_id = 0,
+			x = 125.56172,
+			y = 109.97448,
+		},
+		 
+		{
+			ebp_name = "territory_strategic_point_5m",
+			owner_id = 0,
+			x = -99.69397,
+			y = -97.46455,
+		},
+		 
+		{
+			ebp_name = "territory_fuel_point_low",
+			owner_id = 0,
+			x = -175.67429,
+			y = -215.45862,
+		},
+		 
+		{
+			ebp_name = "territory_munitions_point_low",
+			owner_id = 0,
+			x = -233.81245,
+			y = -143.84813,
+		},
+		 
+		{
+			ebp_name = "territory_strategic_point_5m",
+			owner_id = 0,
+			x = 44.01868,
+			y = -147.98480,
+		},
+		 
+		{
+			ebp_name = "territory_strategic_point_5m",
+			owner_id = 0,
+			x = -46.69793,
+			y = 169.47594,
+		},
+		 
+		{
+			ebp_name = "territory_fuel_point_medium",
+			owner_id = 0,
+			x = -201.22997,
+			y = 180.64587,
+		},
+		 
+		{
+			ebp_name = "territory_munitions_point_medium",
+			owner_id = 0,
+			x = -125.23079,
+			y = 202.89633,
+		},
+		 
+		{
+			ebp_name = "territory_fuel_point_medium",
+			owner_id = 0,
+			x = 124.56149,
+			y = -206.06155,
+		},
+		 
+		{
+			ebp_name = "territory_munitions_point_medium",
+			owner_id = 0,
+			x = 191.30774,
+			y = -182.20123,
+		},
+		 
+		{
+			ebp_name = "territory_fuel_point_high",
+			owner_id = 0,
+			x = -28.13038,
+			y = -29.66169,
+		},
+		 
+		{
+			ebp_name = "territory_munitions_point_medium",
+			owner_id = 0,
+			x = -119.13565,
+			y = -12.19990,
+		},
+		 
+		{
+			ebp_name = "territory_fuel_point_medium",
+			owner_id = 0,
+			x = -224.26201,
+			y = -25.35648,
+		},
+		 
+		{
+			ebp_name = "territory_munitions_point_medium",
+			owner_id = 0,
+			x = 220.88815,
+			y = 35.60678,
+		},
+		 
+		{
+			ebp_name = "territory_fuel_point_medium",
+			owner_id = 0,
+			x = 122.14972,
+			y = 24.22530,
+		},
+		 
+		{
+			ebp_name = "starting_position",
+			owner_id = 1000,
+			x = -228.70367,
+			y = 44.81617,
+		},
+		 
+		{
+			ebp_name = "starting_position",
+			owner_id = 1002,
+			x = -227.98654,
+			y = 85.26186,
+		},
+		 
+		{
+			ebp_name = "starting_position",
+			owner_id = 1004,
+			x = -222.62910,
+			y = 121.00638,
+		},
+		 
+		{
+			ebp_name = "starting_position",
+			owner_id = 1006,
+			x = -176.11122,
+			y = 119.23885,
+		},
+		 
+		{
+			ebp_name = "starting_position",
+			owner_id = 1001,
+			x = 171.86104,
+			y = -122.71289,
+		},
+		 
+		{
+			ebp_name = "starting_position",
+			owner_id = 1003,
+			x = 209.57666,
+			y = -118.96461,
+		},
+		 
+		{
+			ebp_name = "starting_position",
+			owner_id = 1005,
+			x = 216.04276,
+			y = -69.48850,
+		},
+		 
+		{
+			ebp_name = "starting_position",
+			owner_id = 1007,
+			x = 216.29013,
+			y = -37.06885,
+		},
+	},
+	scenario_type = 1,
+	scenarioname = "(8) Doom Trench",
+	slots =  
+	{
+		 
+		{
+			flags = 4294967231,
+			status = 0,
+			team = 0,
+		},
+		 
+		{
+			flags = 4294967231,
+			status = 0,
+			team = 1,
+		},
+		 
+		{
+			flags = 4294967231,
+			status = 0,
+			team = 0,
+		},
+		 
+		{
+			flags = 4294967231,
+			status = 0,
+			team = 1,
+		},
+		 
+		{
+			flags = 4294967231,
+			status = 0,
+			team = 0,
+		},
+		 
+		{
+			flags = 4294967231,
+			status = 0,
+			team = 1,
+		},
+		 
+		{
+			flags = 4294967231,
+			status = 0,
+			team = 0,
+		},
+		 
+		{
+			flags = 4294967231,
+			status = 0,
+			team = 1,
+		},
+		 
+		{
+			flags = 4294967231,
+			status = 1,
+			team = 0,
+		},
+		 
+		{
+			flags = 4294967231,
+			status = 1,
+			team = 1,
+		},
+		 
+		{
+			flags = 4294967231,
+			status = 1,
+			team = 0,
+		},
+		 
+		{
+			flags = 4294967231,
+			status = 1,
+			team = 1,
+		},
+		 
+		{
+			flags = 4294967231,
+			status = 1,
+			team = 0,
+		},
+		 
+		{
+			flags = 4294967231,
+			status = 1,
+			team = 1,
+		},
+		 
+		{
+			flags = 4294967231,
+			status = 1,
+			team = 0,
+		},
+		 
+		{
+			flags = 4294967231,
+			status = 1,
+			team = 1,
+		},
+	},
+	stylized_minimap_enabled = true,
+	stylized_minimap_pipeline_path = "anvil_secondary_material_splats_strips",
+	version = 3001,
+	visible_in_lobby = true,
+	worldbp = "default",
+}
+

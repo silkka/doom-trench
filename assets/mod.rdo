@@ -1,0 +1,28 @@
+<DataWarehouse>
+	<!--Mod/-->
+	<DataObject Name="doom-trench" Type="Mod" Id="9846476611584253473" Version="1">
+		<DataProperty Name="m_description" Type="Object">
+			<DataValue Name="util::ReflectLocString">7116504170953698242</DataValue>
+			<!--Mod/util::ReflectLocString/-->
+			<DataObject Name="" Type="util::ReflectLocString" Id="7116504170953698242" OwnerId="9846476611584253473">
+				<DataProperty Name="m_modPart2" Type="UInt32" Value="253718670"/>
+				<DataProperty Name="m_modPart3" Type="UInt32" Value="1749844516"/>
+				<DataProperty Name="m_modPart0" Type="UInt32" Value="1839126117"/>
+				<DataProperty Name="m_modPart1" Type="UInt32" Value="1175635921"/>
+				<DataProperty Name="m_locStringKey" Type="Int32" Value="2"/>
+			</DataObject>
+		</DataProperty>
+		<DataProperty Name="m_name" Type="Object">
+			<DataValue Name="util::ReflectLocString">12876560225874699747</DataValue>
+			<!--Mod/util::ReflectLocString/-->
+			<DataObject Name="" Type="util::ReflectLocString" Id="12876560225874699747" OwnerId="9846476611584253473">
+				<DataProperty Name="m_modPart2" Type="UInt32" Value="253718670"/>
+				<DataProperty Name="m_modPart3" Type="UInt32" Value="1749844516"/>
+				<DataProperty Name="m_modPart0" Type="UInt32" Value="1839126117"/>
+				<DataProperty Name="m_modPart1" Type="UInt32" Value="1175635921"/>
+				<DataProperty Name="m_locStringKey" Type="Int32" Value="1"/>
+			</DataObject>
+		</DataProperty>
+	</DataObject>
+</DataWarehouse>
+
